@@ -1,0 +1,199 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.11f1 (0a5ca18544bf) revision 679073'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 4016 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker35
+-projectPath
+C:/Users/igdal/DERV_UNIDAD_2_EQUIPO_5_GRUPO_G
+-logFile
+Logs/AssetImportWorker35.log
+-srvPort
+57341
+Successfully changed project path to: C:/Users/igdal/DERV_UNIDAD_2_EQUIPO_5_GRUPO_G
+C:/Users/igdal/DERV_UNIDAD_2_EQUIPO_5_GRUPO_G
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 343.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/igdal/DERV_UNIDAD_2_EQUIPO_5_GRUPO_G/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0xa06)
+    Vendor:   Intel
+    VRAM:     2008 MB
+    Driver:   20.19.15.4531
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.025894 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 319.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.925 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2927ms)
+		BeginReloadAssembly (574ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1791ms)
+			LoadAssemblies (561ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (329ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (1188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (320ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (635ms)
+				ProcessInitializeOnLoadMethodAttributes (193ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.051739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.323 seconds
+Domain Reload Profiling:
+	ReloadAssembly (11325ms)
+		BeginReloadAssembly (863ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (9854ms)
+			LoadAssemblies (825ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (979ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (152ms)
+			SetupLoadedEditorAssemblies (8218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (1169ms)
+				ProcessInitializeOnLoadAttributes (6354ms)
+				ProcessInitializeOnLoadMethodAttributes (624ms)
+				AfterProcessingInitializeOnLoad (45ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.65 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3412 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (113.4 KB). Loaded Objects now: 3870.
+Memory consumption went from 119.1 MB to 119.0 MB.
+Total: 13.495200 ms (FindLiveObjects: 0.686300 ms CreateObjectMapping: 0.386100 ms MarkObjects: 12.161600 ms  DeleteObjects: 0.258900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2459.981443 seconds.
+  path: Assets/Practicas/Scenes/Practica 2.unity
+  artifactKey: Guid(faa59b856bf30ac43a1447feccc0b30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Practicas/Scenes/Practica 2.unity using Guid(faa59b856bf30ac43a1447feccc0b30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b41a6fff21cc06f3fe30409043c329b') in 1.505907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Practicas/Materials/Color_Manzana.mat
+  artifactKey: Guid(253a5cafaaa1d4f4daa938cbac706185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Practicas/Materials/Color_Manzana.mat using Guid(253a5cafaaa1d4f4daa938cbac706185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0b38f3ca1c1c81e48b9bc15af54a09') in 15.124270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Practicas/Scenes/Practica 1.unity
+  artifactKey: Guid(ae325d6b5e243a64d9f563b2c1753196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Practicas/Scenes/Practica 1.unity using Guid(ae325d6b5e243a64d9f563b2c1753196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c49151a0445200cc0ba29bf4818b22') in 0.203541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054840 seconds.
+  path: Assets/Practicas/Scripts/Practica 1/Muisc.cs
+  artifactKey: Guid(da519d07bf46e314299b2efdf9a554fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Practicas/Scripts/Practica 1/Muisc.cs using Guid(da519d07bf46e314299b2efdf9a554fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d00236d74bbdeefded0c1d50e847489') in 0.329265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 255.814000 seconds.
+  path: Assets/Practicas/Scripts/Practica 3/Aceleracion.cs
+  artifactKey: Guid(e5f18a4be219f9b4788cb01437bdc8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Practicas/Scripts/Practica 3/Aceleracion.cs using Guid(e5f18a4be219f9b4788cb01437bdc8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c429218dff5720ee49205a7950a66f1a') in 0.215855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4154.571759 seconds.
+  path: Assets/Prefabs/Manzana.prefab
+  artifactKey: Guid(edaefbfbb3e283445aadd329181b4469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Manzana.prefab using Guid(edaefbfbb3e283445aadd329181b4469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92de4a337a29d5207b9263a19e0b8c0c') in 54.900260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.918423 seconds.
+  path: Assets/Scenes/Ejercicio 7 MovFuerzas.unity
+  artifactKey: Guid(25c310b026a90a04aa2944fadae21681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ejercicio 7 MovFuerzas.unity using Guid(25c310b026a90a04aa2944fadae21681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5894b9754d5d3154873c0596022d284') in 0.291617 seconds 
